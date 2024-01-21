@@ -68,7 +68,7 @@
         "spacing": 10
     },
     "custom/launcher": {
-        "format": "",
+        "format": "󰣇",
         "on-click": "/home/shahwaiz/.config/rofi/launchers/type-1/launcher.sh",
     },
     "custom/power": {
