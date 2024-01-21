@@ -1,4 +1,5 @@
 ![](screenshots/neofetch.png)  
+![](screenshots/foot.png)  
 
 #### [System Information]
 Operating system: [Arch Linux](https://archlinux.org/)  
